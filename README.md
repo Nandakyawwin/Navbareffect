@@ -1,2 +1,3 @@
-# Navbareffect
-Navbareffect like Scrollreveal navbar
+# Navbar Effect
+
+![](https://img.shields.io/badge/HTML-5-green.svg)
